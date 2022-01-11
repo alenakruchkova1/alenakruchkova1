@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alenakruchkova
+- 👋 Hi, I’m Alena
 - 👀 I’m interested in manual testing of web applications
 - 🌱 I’m currently learning at Belhard Academy on the Advanced Level Software Testing course
 - 💞️ I want to cooperate with a company that will help me grow and develop as a specialist, will give me interesting and challenging tasks, which in turn will make me get better and better.
